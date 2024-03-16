@@ -11,3 +11,4 @@ https://www.kaggle.com/datasets/ayuraj/asl-dataset/data
 Integration with Text-to-Speech (TTS) System: 
 Upon successful classification of ASL gestures, the project integrates a Text-to-Speech (TTS) system to convert the recognized gestures into spoken language.
 
+![American Sign Language](american_sign_language.PNG)
